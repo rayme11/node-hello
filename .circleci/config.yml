@@ -34,5 +34,5 @@ jobs:
       # run tests!
       - run: npm test
       - run: echo Pipeline was completed
+      - run: echo Adding CircleCI / Github status integration
 
-      
